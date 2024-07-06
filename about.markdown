@@ -1,0 +1,7 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
+Complete list of publications available on [Inspire](https://inspirehep.net/authors/1680255)
