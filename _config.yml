@@ -29,9 +29,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minimalremote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
