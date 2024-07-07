@@ -10,7 +10,7 @@ Complete list of publications and bibliometric information available on [Inspire
 ### Articles and Preprints:
 - Revisiting gravitational angular momentum and mass dipole losses in the eikonal framework [arXiv:2406.03937](https://arxiv.org/abs/2406.03937)
 - Double-Copy Supertranslations [arXiv:2402.11595](https://arxiv.org/abs/2402.11595)
-- Post-Newtonian multipoles from the next-to-leading post-Minkowskian gravitational waveform [arXiv:Georgoudis:2024pdz](https://arxiv.org/abs/Georgoudis:2024pdz)
+- Post-Newtonian multipoles from the next-to-leading post-Minkowskian gravitational waveform [arXiv:2402.06361](https://arxiv.org/abs/2402.06361)
 - Addendum to: Inelastic exponentiation and classical gravitational scattering at one loop [arXiv:2312.14710](https://arxiv.org/abs/2312.14710)
 - An eikonal-inspired approach to the gravitational scattering waveform [arXiv:2312.07452](https://arxiv.org/abs/2312.07452)
 - Leading-order gravitational radiation to all spin orders [arXiv:2310.05832](https://arxiv.org/abs/2310.05832)
