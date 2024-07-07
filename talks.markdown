@@ -7,8 +7,8 @@ permalink: /talks/
 
 ## Upcoming:
 
-- Lectures on Gravitational waves, scattering amplitudes and BMS <br> (IPhT, Paris/Saclay, March-April 2025) 
-- Seminar at Thèorie, Univers et Gravitation-TUG meeting (Annecy, France, November 2024)
+- Lectures on [Gravitational waves, scattering amplitudes and BMS](https://courses.ipht.fr/?q=en/node/323) <br> (IPhT, Paris/Saclay, March-April 2025) 
+- Seminar at the workshop [Thèorie, Univers et Gravitation-TUG](https://indico.in2p3.fr/event/32387/) <br> (Annecy, France, November 2024)
 
 ## Conference talks:
  
@@ -60,4 +60,38 @@ Video poster, “2PM black-hole scattering from amplitudes in any D”
 “Higher-Spin Supertranslations and Soft Theorems”
 - Workshop on Higher-Spin Gauge Theories (Mons, April 2017) <br>
 “Higher-Spin Asymptotic Symmetries and Soft theorems” 
-- New Frontiers in Theoretical Physics XXXV (Florence, May 2016) <br> “Symmetry Breaking by Topology and Energy Gap” 
+- New Frontiers in Theoretical Physics XXXV (Florence, May 2016) <br> “Symmetry Breaking by Topology and Energy Gap”
+
+## Seminars at research institutes:
+
+- Arnold Sommerfeld Center and Max Planck Institute (Munich, May 2024)
+- Humboldt University (Berlin, May 2024)
+- University of Rome “La Sapienza” (April 2024)
+- École Polytechique, Centre de Physique Théorique (Paris Palaiseau, March 2024)
+- Astroparticule et Cosmologie (APC, Paris, March 2024)
+- Institut d’Astrophysique de Paris (IAP, Paris, February 2024)
+- Higgs Centre for Theoretical Physics, University of Edinburgh (February 2024)
+- University of Roma Tre (Rome, November 2023)
+- Trinity College (Dublin, November 2023)
+- Queen Mary University of London, School of Mathematical Sciences (October 2023)
+- University of Padova (October 2023)
+- Scuola Internazionale Superiore di Studi Avanzati (SISSA, Trieste, September 2023)
+- Institut de Physique Théorique (IPhT, Paris Saclay, May/June 2023)
+- Queen Mary University of London, School of Physical and Chemical Sciences (January 2023)
+- Lomonosov Moscow State University (November 2022)
+- University of Padova (November 2022)
+- Scuola Normale Superiore (Pisa, September 2022)
+- University of Southampton (February 2022)
+- Technische Universität Wien (Vienna, October 2021)
+- University of Genova (October 2021)
+- Zoom Seminar Series—High Energy Scattering (IFT Madrid/LIP Lisbon, July 2021)
+- Albert Einstein Institute (Potsdam, February 2021)
+- IPM (Tehran, February 2021)
+- Humboldt University (Berlin, January 2021)
+- Joint ULB/VUB/KULeuven/UMons Seminars in Theoretical Physics (Mons, November 2020)
+- ETH (Zürich, April 2020)
+- University of Helsinki (February 2020)
+- École Polytechique, Centre de Physique Théorique (Paris Palaiseau, May 2019)
+- Astroparticule et Cosmologie (APC, Paris, May 2019)
+- Nordita (Stockholm, February 2019)
+- Université Libre de Bruxelles (October 2018)
