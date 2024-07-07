@@ -12,55 +12,31 @@ permalink: /talks/
 
 ## Conference talks:
  
--  S-matrix Bootstrap 2024 (Reykjavik, Iceland, June 2024) <br>
-“Gravitational Amplitudes and Observables”
-- New Frontiers in Theoretical Physics XXXVII (Cortona, September 2023) <br>
-“Gravitational waves from scattering amplitudes”
-- CFT and Integrable Models (Bologna, September 2023) <br>
-N = 8 Supergravity as a Theoretical Laboratory for Gravitational Scattering 
-- From Amplitudes to Gravitational Waves (Nordita, Stockholm, July 2023) <br>
-“Radiative Observables, Angular Momentum Losses and the Eikonal Operator” 
-- Gravitational Memory Effects: from Theory to Observation (Queen Mary University of London, June 2023) <br>
-“Angular Momentum Losses, Waveforms and Weinberg’s Soft Graviton Theorem” 
-- Supersymmetry Breaking with Fields, Strings and Branes (Scuola Normale Superiore, Pisa, May 2023) <br>
-Review talk “The gravity eikonal, black-hole encounters and gravitational waves”
-- Di Vecchia-80 Fest (Nordita, Stockholm, May 2023) <br>
-“Inelastic exponentiation and gravitational waveforms”
-- 18th Avogadro Meeting on Strings, Supergravity and Gauge Theories (Turin, December 2022) <br>
-“Scattering Amplitudes and Gravity”
-- 31st Nordic Network Meeting on Strings, Fields and Branes (Copenhagen, November 2022) <br>
-“Classical Gravitational Observables from the Eikonal Operator”
-- Higgs, Flavor and Beyond (DESY, Hamburg, September 2022) <br>
-“Classical Black-Hole Scattering and Gravitational Waves from the Eikonal Exponentiation”
--  Theories of Fundamental Interactions (Venice, June 2022) <br>
-“Eikonal Exponentiation and Gravitational Waves”
-- High-Precision Gravitational Waves (KITP, Santa Barbara, May 2022) <br>
-Amplitudes in the classical limit and the eikonal exponentiation—review talk
-- Storming the Gravitational Wave Frontier (KITP, Santa Barbara, April 2022) <br>
-“The Eikonal Exponentiation and Soft Theorems”
-- Astroparticle Symposium (Institut Pascal, Paris-Saclay University, November 2021) <br>
-“Integrals in the Soft Region, the Gravity Eikonal and Radiation”
-- Amplitudes 2021 (Copenhagen, August 2021) <br>
-“Black-Hole Scattering, Eikonal Exponentiation and Gravitational Waves” (video)
-- Cortona Young 2021 (June 2021) <br>
-“Black-Hole Scattering, Eikonal Resummation and Gravitational Waves”
-- GGI Workshop “Gravitational Scattering, Inspiral and Radiation” (Florence, May 2021) <br>
-“Loop Integrals in the Soft Region and the Gravity Eikonal” 
-- QCD Meets Gravity (Northwestern University, December 2020) <br>
-“Eikonal Exponentiation in the Soft Region”
-- EFT Methods: from Bound States to Binary Systems (Padova, October 2020) <br>
-“Eikonal Exponentiation and Universality in Gravitational Scattering” 
-- Great Lessons from Exact Techniques and Beyond (Padova, September 2020) <br>
-Review talk, “Asymptotic symmetries: historical and modern perspectives”
-- Cortona Young 2020 (May 2020) <br>
-Video poster, “2PM black-hole scattering from amplitudes in any D”
-- New Frontiers in Theoretical Physics XXXVI (Cortona, May 2018) <br>
-“Higher-Spin Asymptotic Symmetries, Charges and Soft Theorems”
-- 55th International School of Subnuclear Physics (Erice 2017) <br>
-“Higher-Spin Supertranslations and Soft Theorems”
-- Workshop on Higher-Spin Gauge Theories (Mons, April 2017) <br>
-“Higher-Spin Asymptotic Symmetries and Soft theorems” 
-- New Frontiers in Theoretical Physics XXXV (Florence, May 2016) <br> “Symmetry Breaking by Topology and Energy Gap”
+- [S-matrix Bootstrap 2024](https://bootstrapcollaboration.com/smatrix2024/) (Reykjavik, Iceland, June 2024) 
+- [New Frontiers in Theoretical Physics XXXVII](https://agenda.infn.it/event/34688/contributions/191412/) (Cortona, September 2023)
+- [CFT and Integrable Models](https://agenda.infn.it/event/33911/contributions/207996/) (Bologna, September 2023)
+- [From Amplitudes to Gravitational Waves](https://indico.fysik.su.se/event/8124/contributions/12815/) (Nordita, Stockholm, July 2023) 
+- [Gravitational Memory Effects: from Theory to Observation](https://drive.google.com/file/d/1gGf96DwIeC1OKnl19bl6RMKEn0aGvmXa/view) <br> (Queen Mary University of London, June 2023) 
+- [Supersymmetry Breaking with Fields, Strings and Branes](https://indico.sns.it/event/56/program) <br> (Scuola Normale Superiore, Pisa, May 2023) 
+- [Di Vecchia-80 Fest](https://indico.fysik.su.se/event/8110/contributions/12501/) (Nordita, Stockholm, May 2023)
+- [18th Avogadro Meeting on Strings, Supergravity and Gauge Theories](https://agenda.infn.it/event/32934/program) (Turin, December 2022) 
+- [31st Nordic Network Meeting on Strings, Fields and Branes](https://indico.nbi.ku.dk/event/1827/contributions/13438/) (Copenhagen, November 2022) 
+- [Higgs, Flavor and Beyond](https://indico.desy.de/event/34520/contributions/129947/) (DESY, Hamburg, September 2022) 
+- [Theories of Fundamental Interactions](https://agenda.infn.it/event/29115/contributions/160357/) (Venice, June 2022)
+- [High-Precision Gravitational Waves](https://online.kitp.ucsb.edu/online/gwaves22/heissenberg/) (KITP, Santa Barbara, May 2022)
+- [Storming the Gravitational Wave Frontier](https://online.kitp.ucsb.edu/online/gwaves-c22/heissenberg/) (KITP, Santa Barbara, April 2022)--[video](https://online.kitp.ucsb.edu/online/gwaves-c22/heissenberg/)
+- [Astroparticle Symposium](https://indico.ijclab.in2p3.fr/event/7119/contributions/23895/) (Institut Pascal, Paris-Saclay University, November 2021) 
+- [Amplitudes 2021](https://indico.nbi.ku.dk/event/1321/contributions/11573/) (Copenhagen, August 2021)--[video](https://youtu.be/TiWgAFyys9c)
+- [Cortona Young 2021](https://www.ggi.infn.it/showevent.pl?id=404) (June 2021)--[video](https://youtu.be/nu-FY5C8RPA)
+- [GGI Workshop “Gravitational Scattering, Inspiral and Radiation](https://www.ggi.infn.it/showevent.pl?id=363) (Florence, May 2021) 
+- [QCD Meets Gravity](https://indico.desy.de/event/27454/contributions/93677/) (Northwestern University, December 2020) 
+- [EFT Methods: from Bound States to Binary Systems](https://indico.dfa.unipd.it/event/11/contributions/30/) (Padova, October 2020)
+- [Great Lessons from Exact Techniques and Beyond](https://agenda.infn.it/event/20305/contributions/101531/) (Padova, September 2020) 
+- [Cortona Young 2020](https://www.ggi.infn.it/videoposter.html) (May 2020)--[video poster](https://youtu.be/wXZJ-xNKRHk)
+- [New Frontiers in Theoretical Physics XXXVI](https://agenda.infn.it/event/14362/contributions/24380/) (Cortona, May 2018) 
+- [55th International School of Subnuclear Physics](http://www.emfcsc.infn.it/issp2017/) (Erice 2017) 
+- [Workshop on Higher-Spin Gauge Theories](https://web.umons.ac.be/pucg/en/event/4th-mons-hs-workshop/) (Mons, April 2017) 
+- [New Frontiers in Theoretical Physics XXXV](https://agenda.infn.it/event/10115/timetable/?view=standard#39-symmetry-breaking-by-topolo) (Florence, May 2016)
 
 ## Seminars at research institutes:
 
@@ -95,3 +71,17 @@ Video poster, “2PM black-hole scattering from amplitudes in any D”
 - Astroparticule et Cosmologie (APC, Paris, May 2019)
 - Nordita (Stockholm, February 2019)
 - Université Libre de Bruxelles (October 2018)
+
+## Lecture series:
+- Institut de Physique Théorique (IPhT, Paris Saclay, March 2024) "BMS and all that" ([video](https://youtu.be/C2_jSYHoKwM?si=zR9gMC4IuDH_8Lp3))
+- Galileo Galilei Institute (GGI, Florence, November/December 2023) <br>
+LACES--Lezioni Avanzate di Campi e Stringhe, *Ph.D. school* <br>
+Advanced General Relativity--[Gravitational observables from scattering amplitudes](https://www.ggi.infn.it/laces/LACES23/gr23.html) ([video](https://www.youtube.com/watch?v=uCi82bm1V6M&list=PLbcx3dKCUhgZepq91sVU3OBz5OTGNjT6Q&ab_channel=GalileoGalileiInstitute%28GGI%29))
+
+## Teaching:
+
+| 01/2023 - 03/2023 | **Uppsala University** <br> Teaching assistant in *Classical Mechanics* <br> 30 hours of lectures and exercise sessions |
+| 10/2017 - 09/2019 | **Scuola Normale Superiore**, Pisa, Italy <br> Teaching assistant in *Statistical Physics* <br> 20 hours of lectures per academic year |
+
+
+
