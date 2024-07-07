@@ -53,7 +53,7 @@ Amplitudes in the classical limit and the eikonal exponentiation—review talk
 - Great Lessons from Exact Techniques and Beyond (Padova, September 2020) <br>
 Review talk, “Asymptotic symmetries: historical and modern perspectives”
 - Cortona Young 2020 (May 2020) <br>
-Video poster, “2PM black-hole scattering from amplitudes in any D”—best video poster
+Video poster, “2PM black-hole scattering from amplitudes in any D”
 - New Frontiers in Theoretical Physics XXXVI (Cortona, May 2018) <br>
 “Higher-Spin Asymptotic Symmetries, Charges and Soft Theorems”
 - 55th International School of Subnuclear Physics (Erice 2017) <br>
