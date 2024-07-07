@@ -3,6 +3,8 @@
 layout: default
 title: Talks & Lectures
 permalink: /talks/
+#- Lectures on Gravitational Observables, Memory Effects and Waveforms <br> in the workshop [From Asymptotic Symmetries to Flat Holography](https://www.ggi.infn.it/showevent.pl?id=510) <br> (GGI, Florence, April 2025)
+#da pubblicare quando ricevo l'invito ufficiale
 ---
 
 ## Upcoming:
