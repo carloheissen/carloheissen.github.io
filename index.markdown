@@ -9,7 +9,7 @@ layout: default
 
 ### About me:
 
-I am a theoretical physics working on quantum field theory, scattering amplitudes, and gravitational waves. Since 2023, I am a [postdoctoral fellow at Queen Mary University of London](https://www.qmul.ac.uk/maths/profiles/heissenbergc.html), my work is supported by UK Research and Innovation (UKRI) via the grant ["EikoGrav"](https://gtr.ukri.org/projects?ref=EP%2FX037312%2F1).
+I am a theoretical physicist working on quantum field theory, scattering amplitudes, and gravitational waves. Since 2023, I am a [postdoctoral fellow at Queen Mary University of London](https://www.qmul.ac.uk/maths/profiles/heissenbergc.html), and my work is supported by UK Research and Innovation (UKRI) via the grant ["EikoGrav"](https://gtr.ukri.org/projects?ref=EP%2FX037312%2F1).
 
 My research focuses on the classical limit of scattering amplitudes and their application to the calculation of
 gravitational-wave observables in the post-Minkowskian approximation. I am also interested in asymptotic
