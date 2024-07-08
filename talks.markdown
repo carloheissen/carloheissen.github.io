@@ -18,7 +18,7 @@ permalink: /talks/
 - [New Frontiers in Theoretical Physics XXXVII](https://agenda.infn.it/event/34688/contributions/191412/) (Cortona, September 2023)
 - [CFT and Integrable Models](https://agenda.infn.it/event/33911/contributions/207996/) (Bologna, September 2023)
 - [From Amplitudes to Gravitational Waves](https://indico.fysik.su.se/event/8124/contributions/12815/) (Nordita, Stockholm, July 2023) 
-- [Gravitational Memory Effects: from Theory to Observation](https://drive.google.com/file/d/1gGf96DwIeC1OKnl19bl6RMKEn0aGvmXa/view) <br> (Queen Mary University of London, June 2023) 
+- [Gravitational Memory Effects: from Theory to Observation](https://sites.google.com/view/gw-memory/talks) <br> (Queen Mary University of London, June 2023) 
 - [Supersymmetry Breaking with Fields, Strings and Branes](https://indico.sns.it/event/56/program) <br> (Scuola Normale Superiore, Pisa, May 2023) 
 - [Di Vecchia-80 Fest](https://indico.fysik.su.se/event/8110/contributions/12501/) (Nordita, Stockholm, May 2023)
 - [18th Avogadro Meeting on Strings, Supergravity and Gauge Theories](https://agenda.infn.it/event/32934/program) (Turin, December 2022) 
