@@ -5,7 +5,18 @@
 layout: default
 ---
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/figures/picCH.jpg" width="300px" > | *Contacts*: <br><br> Queen Mary University of London, <br> School of Mathematical Sciences, <br> Mile End Road E1 4NS, London, UK  <br><br> c.heissenberg (at) qmul.ac.uk |
+ <div class="row">
+  <div class="column">
+<img src="/assets/figures/picCH.jpg" width="300px" >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </div>
+  <div class="column">
+<br>
+<em> Contacts</em>: <br><br> Queen Mary University of London, <br> School of Mathematical Sciences, <br> Mile End Road E1 4NS, London, UK  <br><br> c.heissenberg (at) qmul.ac.uk 
+</div>
+</div> 
+
+<br>
 
 ### About me:
 

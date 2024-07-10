@@ -6,12 +6,14 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-textarea {
-  max-width: 100%
+.column {
+  float: left;
 }
 
-form{
-  font-size: 100%
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 @import "minima";
