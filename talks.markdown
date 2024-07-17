@@ -3,13 +3,13 @@ layout: page
 #layout: default
 title: Talks & Lectures
 permalink: /talks/
-#- Lectures on Gravitational Observables, Memory Effects and Waveforms <br> in the workshop [From Asymptotic Symmetries to Flat Holography](https://www.ggi.infn.it/showevent.pl?id=510) <br> (GGI, Florence, April 2025)
 #da pubblicare quando ricevo l'invito ufficiale
 ---
 
 ## Upcoming:
 
-- Lectures on [Gravitational waves, scattering amplitudes and BMS](https://courses.ipht.fr/?q=en/node/323) <br> (IPhT, Paris/Saclay, March-April 2025) 
+- Lectures on Gravitational Observables, Memory Effects and Waveforms in the workshop [From Asymptotic Symmetries to Flat Holography](https://www.ggi.infn.it/showevent.pl?id=510) (GGI, Florence, April 2025)
+- Lectures on [Gravitational waves, scattering amplitudes and BMS](https://courses.ipht.fr/?q=en/node/323) (IPhT, Saclay, March-April 2025) 
 - Seminar at the workshop [Thèorie, Univers et Gravitation-TUG](https://indico.in2p3.fr/event/32387/) (Annecy, France, November 2024)
 
 ## Conference talks:
