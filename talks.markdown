@@ -3,7 +3,6 @@ layout: page
 #layout: default
 title: Talks & Lectures
 permalink: /talks/
-#da pubblicare quando ricevo l'invito ufficiale
 ---
 
 ## Upcoming:
