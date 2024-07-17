@@ -7,6 +7,7 @@ permalink: /talks/
 
 ## Upcoming:
 
+- Lectures on Gravitational Observables, Memory Effects and Waveforms in the workshop [From Asymptotic Symmetries to Flat Holography](https://www.ggi.infn.it/showevent.pl?id=510) (GGI, Florence, April 2025)
 - Lectures on [Gravitational waves, scattering amplitudes and BMS](https://courses.ipht.fr/?q=en/node/323) (IPhT, Saclay, March-April 2025) 
 - Seminar at the workshop [Thèorie, Univers et Gravitation-TUG](https://indico.in2p3.fr/event/32387/) (Annecy, France, November 2024)
 
@@ -82,6 +83,3 @@ Advanced General Relativity--[Gravitational observables from scattering amplitud
 
 | 01/2023 - 03/2023 | **Uppsala University** <br> Teaching assistant in *Classical Mechanics* <br> 30 hours of lectures and exercise sessions |
 | 10/2017 - 09/2019 | **Scuola Normale Superiore**, Pisa, Italy <br> Teaching assistant in *Statistical Physics* <br> 20 hours of lectures per academic year |
-
-
-
