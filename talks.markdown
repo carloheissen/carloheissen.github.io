@@ -11,7 +11,7 @@ permalink: /talks/
 - Lectures on [Gravitational waves, scattering amplitudes and BMS](https://courses.ipht.fr/?q=en/node/323) (IPhT, Saclay, March-April 2025) 
 - Seminar at the workshop [Thèorie, Univers et Gravitation-TUG](https://indico.in2p3.fr/event/32387/) (Annecy, November 2024)
 - Seminar at the MIAPbP workshop [EFT and Multi-Loop Methods](https://www.munich-iapbp.de/eft-multi-loop-methods) (Munich-Garching, October 2024)
-- Talk for the [Joint Belgian hep-th Seminars](https://indico.in2p3.fr/event/32387/https://web.umons.ac.be/pucg/en/research-activities/joint-seminars/) (AnnecyBrussels, October 2024)
+- Talk for the [Joint Belgian hep-th Seminars](https://indico.in2p3.fr/event/32387/https://web.umons.ac.be/pucg/en/research-activities/joint-seminars/) (Brussels, October 2024)
 
 ## Conference talks:
  
