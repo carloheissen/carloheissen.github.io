@@ -11,7 +11,6 @@ permalink: /talks/
 - Lectures on [Gravitational waves, scattering amplitudes and BMS](https://courses.ipht.fr/?q=en/node/323) (IPhT, Saclay, March-April 2025) 
 - Seminar at the workshop [Thèorie, Univers et Gravitation-TUG](https://indico.in2p3.fr/event/32387/) (Annecy, November 2024)
 - Seminar at the MIAPbP workshop [EFT and Multi-Loop Methods](https://www.munich-iapbp.de/eft-multi-loop-methods) (Munich-Garching, October 2024)
-- Talk for the [Joint Belgian hep-th Seminars](https://web.umons.ac.be/pucg/en/research-activities/joint-seminars/) (Brussels, October 2024)
 
 ## Conference talks:
  
@@ -43,6 +42,7 @@ permalink: /talks/
 
 ## Seminars at research institutes:
 
+- [Joint Belgian hep-th Seminars](https://web.umons.ac.be/pucg/en/research-activities/joint-seminars/) (Brussels, October 2024)
 - Arnold Sommerfeld Center and Max Planck Institute (Munich, May 2024)
 - Humboldt University (Berlin, May 2024)
 - University of Rome “La Sapienza” (April 2024)
@@ -67,7 +67,7 @@ permalink: /talks/
 - Albert Einstein Institute (Potsdam, February 2021)
 - IPM (Tehran, February 2021)
 - Humboldt University (Berlin, January 2021)
-- Joint ULB/VUB/KULeuven/UMons Seminars in Theoretical Physics (Mons, November 2020)
+- [Joint Belgian hep-th Seminars](https://web.umons.ac.be/pucg/en/research-activities/joint-seminars/) (Mons, November 2020)
 - ETH (Zürich, April 2020)
 - University of Helsinki (February 2020)
 - École Polytechique, Centre de Physique Théorique (Paris Palaiseau, May 2019)
