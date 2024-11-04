@@ -7,7 +7,8 @@ permalink: /cv/
 
 ## **Research Positions**
 
-| 2023-present  |   **Queen Mary University of London**, <br> School of Mathematical Sciences - *UKRI postdoctoral research fellow* |
+| 2024-present |  **Institut de Physique Théorique**, Paris, Saclay - *CEA permanent researcher* |
+| 2023-2024 |  **Queen Mary University of London**, <br> School of Mathematical Sciences - *UKRI postdoctoral research fellow* |
 | 2021-2023 |  **Uppsala University**, Department of Physics and Astronomy - *postdoc* |
 | 2019-2021 |  **Nordita**, Nordic Institute for Theoretical Physics, Stockholm - *postdoc* |
 

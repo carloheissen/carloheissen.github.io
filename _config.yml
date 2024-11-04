@@ -19,9 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Carlo Heissenberg
-email: c.heissenberg (at) qmul.ac.uk
+email: carlo.heissenberg (at) ipht.fr
 description: >- # this means to ignore newlines until "baseurl:" and  I haven't managed to introduce line breaks
-  UKRI Postdoctoral Research Fellow at Queen Mary University of London, School of Mathematical Sciences
+ Institut de Physique Théorique, Paris-Saclay
+ CEA permanent researcher
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
