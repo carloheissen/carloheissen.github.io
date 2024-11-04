@@ -12,7 +12,7 @@ layout: default
   </div>
   <div class="column">
 <br>
-<em> Contacts</em>: <br><br> Queen Mary University of London, <br> School of Mathematical Sciences, <br> Mile End Road E1 4NS, London, UK  <br><br> c.heissenberg (at) qmul.ac.uk 
+<em> Contacts</em>: <br><br> Queen Mary University of London, <br> School of Mathematical Sciences, <br> Mile End Road E1 4NS, London, UK  <br><br> carlo.heissenberg (at) ipht.fr 
 </div>
 </div> 
 
@@ -20,7 +20,7 @@ layout: default
 
 ### About me:
 
-I am a theoretical physicist working on quantum field theory, scattering amplitudes, and gravitational waves. Since 2024, I am a CEA permanent researcher at the [Institut de Physique Théorique (IPhT)](https://www.ipht.fr) in Paris-Saclay. Previously, I was a fellow at Queen Mary University of London  supported by the UKRI grant ["EikoGrav"](https://gtr.ukri.org/projects?ref=EP%2FX037312%2F1), and before that I held postdoc positions at Uppsala University and Nordita, Stockholm.
+I am a theoretical physicist working on quantum field theory, scattering amplitudes, and gravitational waves. Since 2024, I am a CEA permanent researcher at the [Institut de Physique Théorique (IPhT)](https://www.ipht.fr) in Saclay. Previously, I was a fellow at Queen Mary University of London  supported by the UKRI grant ["EikoGrav"](https://gtr.ukri.org/projects?ref=EP%2FX037312%2F1), and before that I held postdoc positions at Uppsala University and Nordita, Stockholm.
 
 My research focuses on the classical limit of scattering amplitudes and their application to the calculation of
 gravitational-wave observables in the post-Minkowskian approximation. I am also interested in asymptotic
