@@ -12,7 +12,11 @@ layout: default
   </div>
   <div class="column">
 <br>
-<em> Contacts</em>: <br><br> Queen Mary University of London, <br> School of Mathematical Sciences, <br> Mile End Road E1 4NS, London, UK  <br><br> carlo.heissenberg (at) ipht.fr 
+<em> Contacts</em>: <br><br> Institut de Physique Théorique <br>
+CEA-Saclay <br>
+Orme des Merisiers bâtiment 774 <br>
+F-91191 Gif-sur-Yvette
+<br><br> carlo.heissenberg (at) ipht.fr 
 </div>
 </div> 
 
