@@ -7,12 +7,13 @@ permalink: /talks/
 
 ## Upcoming:
 
-- Lectures on Gravitational Observables, Memory Effects and Waveforms in the workshop <br> [From Asymptotic Symmetries to Flat Holography](https://www.ggi.infn.it/showevent.pl?id=510) (GGI, Florence, May 2025)
 - Lectures on [Gravitational waves, scattering amplitudes and BMS](https://courses.ipht.fr/?q=en/node/323) (IPhT, Saclay, March-April 2025) 
-- Seminar at the workshop [Thèorie, Univers et Gravitation-TUG](https://indico.in2p3.fr/event/32387/) (Annecy, November 2024)
+- Lectures on Gravitational Observables, Memory Effects and Waveforms in the workshop <br> [From Asymptotic Symmetries to Flat Holography](https://www.ggi.infn.it/showevent.pl?id=510) (GGI, Florence, May 2025)
+- Talk at [PLANCK 2025](https://indico.dfa.unipd.it/event/1200/) (Padua, May 2025)
 
 ## Conference talks:
 
+- [Thèorie, Univers et Gravitation-TUG](https://indico.in2p3.fr/event/32387/) (Annecy, November 2024)
 - [EFT and Multi-Loop Methods](https://www.munich-iapbp.de/eft-multi-loop-methods) (MIAPbP, Munich-Garching, October 2024)
 - [S-matrix Bootstrap 2024](https://bootstrapcollaboration.com/smatrix2024/) (Reykjavik, Iceland, June 2024) 
 - [New Frontiers in Theoretical Physics XXXVII](https://agenda.infn.it/event/34688/contributions/191412/) (Cortona, September 2023)

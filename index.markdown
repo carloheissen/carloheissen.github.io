@@ -12,11 +12,14 @@ layout: default
   </div>
   <div class="column">
 <br>
-<em> Contacts</em>: <br><br> Institut de Physique Théorique <br>
+<em> Contacts</em>:
+<br><br>
+Institut de Physique Théorique <br>
 CEA-Saclay <br>
-Orme des Merisiers bâtiment 774 <br>
-91191 Gif-sur-Yvette
-<br><br> carlo.heissenberg (at) ipht.fr 
+Orme des Merisiers 91191 Gif-sur-Yvette <br>
+Bâtiment 774, office 125
+<br><br>
+carlo.heissenberg (at) ipht.fr 
 </div>
 </div> 
 
