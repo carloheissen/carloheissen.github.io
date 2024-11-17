@@ -50,7 +50,7 @@ permalink: /talks/
 - University of Rome “La Sapienza” (April 2024)
 - École Polytechique, Centre de Physique Théorique (Paris Palaiseau, March 2024)
 - Astroparticule et Cosmologie (APC, Paris, March 2024)
-- Institut d’Astrophysique de Paris (IAP), [Séminaire GreCo](www.iap.fr/vie_scientifique/journal-clubs/resumes.php?nom_seminaire=Journal-club_GReCO&numero=4375) (Paris, February 2024)
+- Institut d’Astrophysique de Paris (IAP), [Séminaire GreCo](http://www.iap.fr/vie_scientifique/journal-clubs/resumes.php?nom_seminaire=Journal-club_GReCO&numero=4375) (Paris, February 2024)
 - Higgs Centre for Theoretical Physics, University of Edinburgh (February 2024)
 - University of Roma Tre (Rome, November 2023)
 - Trinity College, [Theoretical Physics colloquium](https://sites.google.com/tcd.ie/dtpc23-24/home) (Dublin, November 2023)
