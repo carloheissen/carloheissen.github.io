@@ -53,7 +53,7 @@ permalink: /talks/
 - Institut d’Astrophysique de Paris (IAP), [Séminaire GreCo](www.iap.fr/vie_scientifique/journal-clubs/resumes.php?nom_seminaire=Journal-club_GReCO&numero=4375) (Paris, February 2024)
 - Higgs Centre for Theoretical Physics, University of Edinburgh (February 2024)
 - University of Roma Tre (Rome, November 2023)
-- Trinity College, (Theoretical Physics colloquium)[https://sites.google.com/tcd.ie/dtpc23-24/home] (Dublin, November 2023)
+- Trinity College, [Theoretical Physics colloquium](https://sites.google.com/tcd.ie/dtpc23-24/home) (Dublin, November 2023)
 - Queen Mary University of London, School of Mathematical Sciences (October 2023)
 - University of Padova (October 2023)
 - Scuola Internazionale Superiore di Studi Avanzati (SISSA, Trieste, September 2023)
