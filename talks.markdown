@@ -50,7 +50,7 @@ permalink: /talks/
 - University of Rome “La Sapienza” (April 2024)
 - École Polytechique, Centre de Physique Théorique (Paris Palaiseau, March 2024)
 - Astroparticule et Cosmologie (APC, Paris, March 2024)
-- Institut d’Astrophysique de Paris (IAP), (Séminaire GreCo)[www.iap.fr/vie_scientifique/journal-clubs/resumes.php?nom_seminaire=Journal-club_GReCO&numero=4375] (Paris, February 2024)
+- Institut d’Astrophysique de Paris (IAP), [Séminaire GreCo](www.iap.fr/vie_scientifique/journal-clubs/resumes.php?nom_seminaire=Journal-club_GReCO&numero=4375) (Paris, February 2024)
 - Higgs Centre for Theoretical Physics, University of Edinburgh (February 2024)
 - University of Roma Tre (Rome, November 2023)
 - Trinity College, (Theoretical Physics colloquium)[https://sites.google.com/tcd.ie/dtpc23-24/home] (Dublin, November 2023)
@@ -58,7 +58,7 @@ permalink: /talks/
 - University of Padova (October 2023)
 - Scuola Internazionale Superiore di Studi Avanzati (SISSA, Trieste, September 2023)
 - Institut de Physique Théorique (IPhT, Paris Saclay, May/June 2023)
-- Queen Mary University of London, School of Physical and Chemical Sciences (January 2023)--(video)[https://www.youtube.com/watch?v=aMsaxKAONVU&ab_channel=ITMPMSU]
+- Queen Mary University of London, School of Physical and Chemical Sciences (January 2023)--[video](https://www.youtube.com/watch?v=aMsaxKAONVU&ab_channel=ITMPMSU)
 - Lomonosov Moscow State University (November 2022)
 - University of Padova (November 2022)
 - Scuola Normale Superiore (Pisa, September 2022)
