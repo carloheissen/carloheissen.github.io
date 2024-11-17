@@ -41,8 +41,9 @@ permalink: /talks/
 - [Workshop on Higher-Spin Gauge Theories](https://web.umons.ac.be/pucg/en/event/4th-mons-hs-workshop/) (Mons, April 2017) 
 - [New Frontiers in Theoretical Physics XXXV](https://agenda.infn.it/event/10115/timetable/?view=standard#39-symmetry-breaking-by-topolo) (Florence, May 2016)
 
-## Seminars at research institutes:
+## Seminars:
 
+- University of Porto (November 2025)
 - [Joint Belgian hep-th Seminars](https://web.umons.ac.be/pucg/en/research-activities/joint-seminars/) (Brussels, October 2024)
 - Arnold Sommerfeld Center and Max Planck Institute (Munich, May 2024)
 - Humboldt University (Berlin, May 2024)
@@ -52,7 +53,7 @@ permalink: /talks/
 - Institut d’Astrophysique de Paris (IAP, Paris, February 2024)
 - Higgs Centre for Theoretical Physics, University of Edinburgh (February 2024)
 - University of Roma Tre (Rome, November 2023)
-- Trinity College (Dublin, November 2023)
+- Trinity College, *Physics colloquium* (Dublin, November 2023)
 - Queen Mary University of London, School of Mathematical Sciences (October 2023)
 - University of Padova (October 2023)
 - Scuola Internazionale Superiore di Studi Avanzati (SISSA, Trieste, September 2023)
@@ -64,7 +65,7 @@ permalink: /talks/
 - University of Southampton (February 2022)
 - Technische Universität Wien (Vienna, October 2021)
 - University of Genova (October 2021)
-- Zoom Seminar Series—High Energy Scattering (IFT Madrid/LIP Lisbon, July 2021)
+- Seminar Series—High Energy Scattering (IFT Madrid/LIP Lisbon, July 2021)
 - Albert Einstein Institute (Potsdam, February 2021)
 - IPM (Tehran, February 2021)
 - Humboldt University (Berlin, January 2021)
