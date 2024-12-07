@@ -14,7 +14,7 @@ layout: default
 <br>
 <em> Contacts</em>:
 <br><br>
-Institut de Physique Théorique, CEA-Saclay <br>
+Institut de Physique Théorique, CEA Saclay <br>
 Orme des Merisiers 91191 Gif-sur-Yvette <br>
 Bâtiment 774, office 125
 <br><br>
