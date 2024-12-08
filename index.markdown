@@ -26,7 +26,7 @@ carlo.heissenberg (at) ipht.fr
 
 ### About me:
 
-I am a theoretical physicist working on quantum field theory, scattering amplitudes, and gravitational waves. Since 2024, I am a permanent member of the [high-energy physics, gravity and cosmology group](https://www.ipht.fr/en/cosmology-astrophysics-high-energy-physics-and-hadronic-matter/) at the [Institut de Physique Théorique (IPhT)](https://www.ipht.fr), CEA-Saclay. Previously, I was a UKRI fellow at [Queen Mary University of London](https://www.seresearch.qmul.ac.uk/cgag/), and before that I held postdoc positions at [Uppsala University](https://www.uu.se/institution/fysik-och-astronomi/forskning/teoretisk-fysik) and [Nordita](https://nordita.org/), Stockholm.
+I am a theoretical physicist working on quantum field theory, scattering amplitudes, and gravitational waves. Since 2024, I am a permanent member of the [high-energy physics, gravity and cosmology group](https://www.ipht.fr/en/cosmology-astrophysics-high-energy-physics-and-hadronic-matter/) at the [Institut de Physique Théorique (IPhT)](https://www.ipht.fr), [CEA-Saclay](https://www.cea.fr/drf/Pages/La-DRF/Instituts/institut-ipht.aspx). Previously, I was a UKRI fellow at [Queen Mary University of London](https://www.seresearch.qmul.ac.uk/cgag/), and before that I held postdoc positions at [Uppsala University](https://www.uu.se/institution/fysik-och-astronomi/forskning/teoretisk-fysik) and [Nordita](https://nordita.org/), Stockholm.
 
 My research focuses on the classical limit of scattering amplitudes and their application to the calculation of
 gravitational-wave observables in the post-Minkowskian approximation. I am also interested in asymptotic
