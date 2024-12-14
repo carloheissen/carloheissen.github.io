@@ -7,8 +7,6 @@ permalink: /talks/
 
 ## Upcoming:
 
-- Seminar for the University of Crete (December 2025)
-- Seminar at the University of Bologna (December 2025)
 - Lectures at the [APCTP](https://www.apctp.org/) Winter School on Fundamental Physics 2025 in Korea (February 2025)
 - Lectures on [Gravitational waves, scattering amplitudes and BMS](https://courses.ipht.fr/?q=en/node/323) (IPhT, Saclay, March-April 2025) 
 - Lectures on Gravitational Observables, Memory Effects and Waveforms in the workshop <br> [From Asymptotic Symmetries to Flat Holography](https://www.ggi.infn.it/showevent.pl?id=510) (GGI, Florence, May 2025)
@@ -46,6 +44,8 @@ permalink: /talks/
 
 ## Seminars:
 
+- University of Bologna (December 2025)
+- University of Crete (December 2025)
 - University of Porto (November 2025)
 - [Joint Belgian hep-th Seminars](https://web.umons.ac.be/pucg/en/research-activities/joint-seminars/) (Brussels, October 2024)
 - Arnold Sommerfeld Center and Max Planck Institute (Munich, May 2024)
