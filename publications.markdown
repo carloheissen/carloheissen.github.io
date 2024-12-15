@@ -35,7 +35,7 @@ Complete list of publications and bibliometric information available on [Inspire
 - Topics in asymptotic symmetries and infrared effects (*Ph.D. thesis*) [arXiv:1911.12203](https://arxiv.org/abs/1911.12203)
 - Electromagnetic and color memory in even dimensions [arXiv:1907.05187](https://arxiv.org/abs/1907.05187)
 - Generalized criteria of symmetry breaking. A strategy for quantum time crystals [arXiv:1906.12293](https://arxiv.org/abs/1906.12293), [1605.04188](https://arxiv.org/abs/1605.04188)
-- Two-form asymptotic symmetries and scalar foft theorems [arXiv:1810.05634](https://arxiv.org/abs/1810.05634)
+- Two-form asymptotic symmetries and scalar soft theorems [arXiv:1810.05634](https://arxiv.org/abs/1810.05634)
 - Asymptotic symmetries and charges at null infinity: from low to high spins (*proceedings*) [arXiv:1808.01542](https://arxiv.org/abs/1808.01542)
 - Asymptotic charges at null infinity in any dimension [arXiv:1712.09591](https://arxiv.org/abs/1712.09591)
 - Convergent and divergent series in physics (*lecture notes*) [arXiv:1703.05164](https://arxiv.org/abs/1703.05164)
