@@ -8,6 +8,7 @@ permalink: /talks/
 ## Upcoming:
 
 - Lectures at the [APCTP](https://www.apctp.org/) Winter School on Fundamental Physics 2025 in Korea (February 2025)
+- Talk at the conference ''Gravity, Strings and Supersymmetry Breaking'' (Pisa, April 2025)
 - Lectures on [Gravitational waves, scattering amplitudes and BMS](https://courses.ipht.fr/?q=en/node/323) (IPhT, Saclay, March-April 2025) 
 - Lectures on Gravitational Observables, Memory Effects and Waveforms in the workshop <br> [From Asymptotic Symmetries to Flat Holography](https://www.ggi.infn.it/showevent.pl?id=510) (GGI, Florence, May 2025)
 - Talk at [PLANCK 2025](https://indico.dfa.unipd.it/event/1200/) (Padua, May 2025)
