@@ -9,6 +9,7 @@ permalink: /publications/
 Complete list of publications and bibliometric information available on [Inspire](https://inspirehep.net/authors/1680255)
 
 ### Articles and preprints:
+- Radiation-Reaction and Angular Momentum Loss at O(G<sup>4</sup>) [arXiv:2501.02904](https://arxiv.org/abs/2501.02904)
 - Logarithmic soft theorems and soft spectra [arXiv:2407.04128](https://arxiv.org/abs/2407.04128)
 - Revisiting gravitational angular momentum and mass dipole losses in the eikonal framework [arXiv:2406.03937](https://arxiv.org/abs/2406.03937)
 - Double-copy supertranslations [arXiv:2402.11595](https://arxiv.org/abs/2402.11595)
