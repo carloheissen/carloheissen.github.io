@@ -46,9 +46,9 @@ permalink: /talks/
 
 ## Seminars:
 
-- University of Bologna (December 2025)
-- University of Crete (December 2025)
-- University of Porto (November 2025)
+- University of Bologna (December 2024)
+- University of Crete (December 2024)
+- University of Porto (November 2024)
 - [Joint Belgian hep-th Seminars](https://web.umons.ac.be/pucg/en/research-activities/joint-seminars/) (Brussels, October 2024)
 - Arnold Sommerfeld Center and Max Planck Institute (Munich, May 2024)
 - Humboldt University (Berlin, May 2024)
