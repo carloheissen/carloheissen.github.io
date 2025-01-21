@@ -16,7 +16,8 @@ layout: default
 <br><br>
 Institut de Physique Théorique, CEA Saclay <br>
 Orme des Merisiers 91191 Gif-sur-Yvette <br>
-Bâtiment 774, office 125
+Building 774, office 125 <br>
++33 1 69 08 73 64
 <br><br>
 carlo.heissenberg (at) ipht.fr 
 </div>
