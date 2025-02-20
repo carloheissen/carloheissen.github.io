@@ -7,9 +7,8 @@ permalink: /talks/
 
 ## Upcoming:
 
-- Lectures at the [APCTP Winter School on Fundamental Physics 2025](https://sites.google.com/view/apctpwinterschool2025/home) in Korea (February 2025)
+- Lectures on [Gravitational waves, scattering amplitudes and BMS](https://courses.ipht.fr/?q=en/node/323) (IPhT, Saclay, March-April 2025)
 - Talk at the conference [Gravity, Strings and Supersymmetry Breaking](https://indico.sns.it/event/79/) (Pisa, April 2025)
-- Lectures on [Gravitational waves, scattering amplitudes and BMS](https://courses.ipht.fr/?q=en/node/323) (IPhT, Saclay, March-April 2025) 
 - Lectures at the [GGI school on asymptotic symmetries and flat holography](https://www.ggi.infn.it/showevent.pl?id=511), part of the workshop <br> [From Asymptotic Symmetries to Flat Holography](https://www.ggi.infn.it/showevent.pl?id=510) (GGI, Florence, May 2025)
 - Talk at [PLANCK 2025](https://indico.dfa.unipd.it/event/1200/) (Padua, May 2025)
 - Talk at the [French Strings Meeting 2025](https://indico.in2p3.fr/event/34664/overview) (Tours, June 2025)
@@ -83,6 +82,7 @@ permalink: /talks/
 - Université Libre de Bruxelles (October 2018)
 
 ## Lecture series:
+- Lectures at the [APCTP Winter School on Fundamental Physics 2025](https://sites.google.com/view/apctpwinterschool2025/home) in Seoul 서울 (February 2025)
 - Institut de Physique Théorique (IPhT, Paris Saclay, March 2024) "BMS and all that" ([video](https://youtu.be/C2_jSYHoKwM?si=zR9gMC4IuDH_8Lp3))
 - Galileo Galilei Institute (GGI, Florence, November/December 2023) <br>
 LACES--Lezioni Avanzate di Campi e Stringhe, *Ph.D. school* <br>
