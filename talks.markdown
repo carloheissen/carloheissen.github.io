@@ -84,7 +84,9 @@ permalink: /talks/
 ## Lecture series:
 - [Cours de l'IPhT](https://courses.ipht.fr/?q=en/node/323) on "Gravitational waves, scattering amplitudes and BMS" (IPhT, Saclay, March-April 2025) <br>
 <figure>
+<center>
 <img src="/assets/figures/IPhT-poster-cropped.png" width="300">
+</center>
 </figure>
 - [APCTP Winter School on Fundamental Physics 2025](https://sites.google.com/view/apctpwinterschool2025/home), course on "Scattering amplitudes" <br>
 (Seoul 서울, February 2025)
