@@ -82,11 +82,10 @@ permalink: /talks/
 
 ## Lecture series:
 - [Cours de l'IPhT](https://courses.ipht.fr/?q=en/node/323) on "Gravitational waves, scattering amplitudes and BMS" (IPhT, Saclay, March-April 2025)
-- [APCTP Winter School on Fundamental Physics 2025](https://sites.google.com/view/apctpwinterschool2025/home) on "Scattering amplitudes" in Seoul 서울 (February 2025)
-- Mini-course on "BMS and all that" (IPhT, Saclay, March 2024) [video](https://youtu.be/C2_jSYHoKwM?si=zR9gMC4IuDH_8Lp3)
-- LACES--Lezioni Avanzate di Campi e Stringhe, *winter school* <br>
-Advanced General Relativity--[Gravitational observables from scattering amplitudes](https://www.ggi.infn.it/laces/LACES23/gr23.html) (GGI, Florence, November-December 2023)
-([video](https://www.youtube.com/watch?v=uCi82bm1V6M&list=PLbcx3dKCUhgZepq91sVU3OBz5OTGNjT6Q&ab_channel=GalileoGalileiInstitute%28GGI%29))
+- [APCTP Winter School on Fundamental Physics 2025](https://sites.google.com/view/apctpwinterschool2025/home), course on "Scattering amplitudes" in Seoul 서울 (February 2025)
+- Mini-course on "BMS and all that" (IPhT, Saclay, March 2024) [[video]](https://youtu.be/C2_jSYHoKwM?si=zR9gMC4IuDH_8Lp3)
+- [LACES winter school](https://www.ggi.infn.it/laces/LACES23/index23.html), course on Advanced General Relativity--[Gravitational observables from scattering amplitudes](https://www.ggi.infn.it/laces/LACES23/gr23.html) (GGI, Florence, November-December 2023)
+[[video]](https://www.youtube.com/watch?v=uCi82bm1V6M&list=PLbcx3dKCUhgZepq91sVU3OBz5OTGNjT6Q&ab_channel=GalileoGalileiInstitute%28GGI%29)
 
 ## Teaching:
 
