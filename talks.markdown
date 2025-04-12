@@ -7,7 +7,6 @@ permalink: /talks/
 
 ## Upcoming:
 
-- Lectures on [Gravitational waves, scattering amplitudes and BMS](https://courses.ipht.fr/?q=en/node/323) (IPhT, Saclay, March-April 2025)
 - Talk at the conference [Gravity, Strings and Supersymmetry Breaking](https://indico.sns.it/event/79/) (Pisa, April 2025)
 - Lectures at the [GGI school on asymptotic symmetries and flat holography](https://www.ggi.infn.it/showevent.pl?id=511), part of the workshop <br> [From Asymptotic Symmetries to Flat Holography](https://www.ggi.infn.it/showevent.pl?id=510) (GGI, Florence, May 2025)
 - Talk at [PLANCK 2025](https://indico.dfa.unipd.it/event/1200/) (Padua, May 2025)
@@ -82,11 +81,12 @@ permalink: /talks/
 - Université Libre de Bruxelles (October 2018)
 
 ## Lecture series:
-- Lectures at the [APCTP Winter School on Fundamental Physics 2025](https://sites.google.com/view/apctpwinterschool2025/home) in Seoul 서울 (February 2025)
-- Institut de Physique Théorique (IPhT, Paris Saclay, March 2024) "BMS and all that" ([video](https://youtu.be/C2_jSYHoKwM?si=zR9gMC4IuDH_8Lp3))
-- Galileo Galilei Institute (GGI, Florence, November/December 2023) <br>
-LACES--Lezioni Avanzate di Campi e Stringhe, *Ph.D. school* <br>
-Advanced General Relativity--[Gravitational observables from scattering amplitudes](https://www.ggi.infn.it/laces/LACES23/gr23.html) ([video](https://www.youtube.com/watch?v=uCi82bm1V6M&list=PLbcx3dKCUhgZepq91sVU3OBz5OTGNjT6Q&ab_channel=GalileoGalileiInstitute%28GGI%29))
+- [Cours de l'IPhT](https://courses.ipht.fr/?q=en/node/323) on "Gravitational waves, scattering amplitudes and BMS" (IPhT, Saclay, March-April 2025)
+- [APCTP Winter School on Fundamental Physics 2025](https://sites.google.com/view/apctpwinterschool2025/home) on "Scattering amplitudes" in Seoul 서울 (February 2025)
+- Mini-course on "BMS and all that" (IPhT, Saclay, March 2024) [video](https://youtu.be/C2_jSYHoKwM?si=zR9gMC4IuDH_8Lp3)
+- LACES--Lezioni Avanzate di Campi e Stringhe, *winter school* <br>
+Advanced General Relativity--[Gravitational observables from scattering amplitudes](https://www.ggi.infn.it/laces/LACES23/gr23.html) (GGI, Florence, November-December 2023)
+([video](https://www.youtube.com/watch?v=uCi82bm1V6M&list=PLbcx3dKCUhgZepq91sVU3OBz5OTGNjT6Q&ab_channel=GalileoGalileiInstitute%28GGI%29))
 
 ## Teaching:
 
