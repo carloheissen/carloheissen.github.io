@@ -82,8 +82,7 @@ permalink: /talks/
 - Université Libre de Bruxelles (October 2018)
 
 ## Lecture series:
-- [Cours de l'IPhT](https://courses.ipht.fr/?q=en/node/323) on "Gravitational waves, scattering amplitudes and BMS" (IPhT, Saclay, March-April 2025) <br>
-<img src="/assets/figures/IPhT-poster.png" width="300">
+- [Cours de l'IPhT](https://courses.ipht.fr/?q=en/node/323) on "Gravitational waves, scattering amplitudes and BMS" (IPhT, Saclay, March-April 2025) 
 - [APCTP Winter School on Fundamental Physics 2025](https://sites.google.com/view/apctpwinterschool2025/home), course on "Scattering amplitudes" <br>
 (Seoul 서울, February 2025)
 - Mini-course on "BMS and all that" (IPhT, Saclay, March 2024) [[video]](https://youtu.be/C2_jSYHoKwM?si=zR9gMC4IuDH_8Lp3)
