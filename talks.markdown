@@ -14,7 +14,7 @@ permalink: /talks/
 
 ## Conference talks:
 
-- [Gravity, Strings and Supersymmetry Breaking](https://indico.sns.it/event/79/) (Pisa, April 2025)
+- [Gravity, Strings and Supersymmetry Breaking](https://indico.sns.it/event/79/) (Scuola Normale Superiore, Pisa, April 2025)
 - [Thèorie, Univers et Gravitation-TUG](https://indico.in2p3.fr/event/32387/) (Annecy, November 2024)
 - [EFT and Multi-Loop Methods](https://www.munich-iapbp.de/eft-multi-loop-methods) (MIAPbP, Munich-Garching, October 2024)
 - [S-matrix Bootstrap 2024](https://bootstrapcollaboration.com/smatrix2024/) (Reykjavik, Iceland, June 2024) 
