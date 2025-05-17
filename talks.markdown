@@ -7,7 +7,7 @@ permalink: /talks/
 
 ## Upcoming:
 
-- Lectures at the [GGI school on asymptotic symmetries and flat holography](https://www.ggi.infn.it/showevent.pl?id=511) (GGI, Florence, May 2025)
+- Lectures at the GGI school on [Asymptotic Symmetries and Flat Holography](https://www.ggi.infn.it/showevent.pl?id=511) (GGI, Florence, May 2025)
 - Talk at [PLANCK 2025](https://indico.dfa.unipd.it/event/1200/) (Padua, May 2025)
 - Talk at meeting on [Waveforms and Tests of General Relativity](https://indico.ijclab.in2p3.fr/event/11680/overview) (Meudon, June 2025) 
 - Talk at the [French Strings Meeting 2025](https://indico.in2p3.fr/event/34664/overview) (Tours, June 2025)
@@ -15,7 +15,7 @@ permalink: /talks/
 
 ## Conference talks:
 
-- Talk at the CERN workshop on [Infrared Surprises of Scattering Amplitudes](https://indico.cern.ch/event/1461182/) (May 2025)
+- [Infrared Surprises of Scattering Amplitudes](https://indico.cern.ch/event/1461182/) (CERN, May 2025)
 - [Gravity, Strings and Supersymmetry Breaking](https://indico.sns.it/event/79/) (Scuola Normale Superiore, Pisa, April 2025)
 - [Théorie, Univers et Gravitation-TUG](https://indico.in2p3.fr/event/32387/) (Annecy, November 2024)
 - [EFT and Multi-Loop Methods](https://www.munich-iapbp.de/eft-multi-loop-methods) (MIAPbP, Munich-Garching, October 2024)
