@@ -7,7 +7,6 @@ permalink: /talks/
 
 ## Upcoming:
 
-- Lectures at the GGI school on [Asymptotic Symmetries and Flat Holography](https://www.ggi.infn.it/showevent.pl?id=511) (GGI, Florence, May 2025)
 - Talk at [PLANCK 2025](https://indico.dfa.unipd.it/event/1200/) (Padua, May 2025)
 - Talk at meeting on [Waveforms and Tests of General Relativity](https://indico.ijclab.in2p3.fr/event/11680/overview) (Meudon, June 2025) 
 - Talk at the [French Strings Meeting 2025](https://indico.in2p3.fr/event/34664/overview) (Tours, June 2025)
@@ -84,6 +83,7 @@ permalink: /talks/
 - Université Libre de Bruxelles (October 2018)
 
 ## Lecture series:
+- Lectures at the GGI school on [Asymptotic Symmetries and Flat Holography](https://www.ggi.infn.it/showevent.pl?id=511) (GGI, Florence, May 2025)
 - [Cours de l'IPhT](https://courses.ipht.fr/?q=en/node/323) on "Gravitational waves, scattering amplitudes and BMS" (IPhT, Saclay, March-April 2025) <br>
 <figure>
 <center>
