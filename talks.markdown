@@ -7,13 +7,13 @@ permalink: /talks/
 
 ## Upcoming:
 
-- Talk at [PLANCK 2025](https://indico.dfa.unipd.it/event/1200/) (Padua, May 2025)
-- Talk at meeting on [Waveforms and Tests of General Relativity](https://indico.ijclab.in2p3.fr/event/11680/overview) (Meudon, June 2025) 
-- Talk at the [French Strings Meeting 2025](https://indico.in2p3.fr/event/34664/overview) (Tours, June 2025)
 - Talk at the GGI conference [From Asymptotic Symmetries to Flat Holography](https://www.ggi.infn.it/showevent.pl?id=512) (GGI, Florence, June 2025)
 
 ## Conference talks:
 
+- [French Strings Meeting 2025](https://indico.in2p3.fr/event/34664/overview) (Tours, June 2025)
+- Meeting on [Waveforms and Tests of General Relativity](https://indico.ijclab.in2p3.fr/event/11680/overview) (Meudon, June 2025) 
+- [PLANCK 2025](https://indico.dfa.unipd.it/event/1200/) (Padua, May 2025)
 - [Infrared Surprises of Scattering Amplitudes](https://indico.cern.ch/event/1461182/) (CERN, May 2025)
 - [Gravity, Strings and Supersymmetry Breaking](https://indico.sns.it/event/79/) (Scuola Normale Superiore, Pisa, April 2025)
 - [Théorie, Univers et Gravitation-TUG](https://indico.in2p3.fr/event/32387/) (Annecy, November 2024)
