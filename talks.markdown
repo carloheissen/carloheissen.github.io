@@ -8,7 +8,7 @@ permalink: /talks/
 ## Upcoming:
 
 - Talk at the GGI conference [From Asymptotic Symmetries to Flat Holography](https://www.ggi.infn.it/showevent.pl?id=512) (GGI, Florence, June 2025)
-- Lectures at [GRAMPA 2025 at Institut Henri Poincaré](https://indico.global/event/14299/overview) (GGI, Florence, May 2025)
+- Lectures at [GRAMPA 2025 at Institut Henri Poincaré](https://indico.global/event/14299/overview) (Paris, July 2025)
 
 ## Conference talks:
 
