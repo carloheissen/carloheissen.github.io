@@ -8,11 +8,12 @@ permalink: /talks/
 ## Upcoming:
 
 - Talk at the GGI conference [From Asymptotic Symmetries to Flat Holography](https://www.ggi.infn.it/showevent.pl?id=512) (GGI, Florence, June 2025)
+- Lectures at [GRAMPA 2025 at Institut Henri Poincaré](https://indico.global/event/14299/overview) (GGI, Florence, May 2025)
 
 ## Conference talks:
 
 - [French Strings Meeting 2025](https://indico.in2p3.fr/event/34664/overview) (Tours, June 2025)
-- Meeting on [Waveforms and Tests of General Relativity](https://indico.ijclab.in2p3.fr/event/11680/overview) (Meudon, June 2025) 
+- [Waveforms and Tests of General Relativity](https://indico.ijclab.in2p3.fr/event/11680/overview) (Meudon, June 2025) 
 - [PLANCK 2025](https://indico.dfa.unipd.it/event/1200/) (Padua, May 2025)
 - [Infrared Surprises of Scattering Amplitudes](https://indico.cern.ch/event/1461182/) (CERN, May 2025)
 - [Gravity, Strings and Supersymmetry Breaking](https://indico.sns.it/event/79/) (Scuola Normale Superiore, Pisa, April 2025)
@@ -83,7 +84,7 @@ permalink: /talks/
 - Université Libre de Bruxelles (October 2018)
 
 ## Lecture series:
-- Lectures at the GGI school on [Asymptotic Symmetries and Flat Holography](https://www.ggi.infn.it/showevent.pl?id=511) (GGI, Florence, May 2025)
+- GGI school on [Asymptotic Symmetries and Flat Holography](https://www.ggi.infn.it/showevent.pl?id=511) (GGI, Florence, May 2025)
 - [Cours de l'IPhT](https://courses.ipht.fr/?q=en/node/323) on "Gravitational waves, scattering amplitudes and BMS" (IPhT, Saclay, March-April 2025) <br>
 <figure>
 <center>
