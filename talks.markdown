@@ -7,7 +7,7 @@ permalink: /talks/
 
 ## Upcoming:
 
-- Talk at the GGI conference [From Asymptotic Symmetries to Flat Holography](https://www.ggi.infn.it/showevent.pl?id=512) (GGI, Florence, June 2025)
+- Talk at the GGI conference [From Asymptotic Symmetries to Flat Holography](https://www.ggi.infn.it/showevent.pl?id=512) (Florence, June 2025)
 - Lectures at [GRAMPA 2025 at Institut Henri Poincaré](https://indico.global/event/14299/overview) (Paris, July 2025)
 
 ## Conference talks:
@@ -35,7 +35,7 @@ permalink: /talks/
 - [Astroparticle Symposium](https://indico.ijclab.in2p3.fr/event/7119/contributions/23895/) (Institut Pascal, Paris-Saclay University, November 2021) 
 - [Amplitudes 2021](https://indico.nbi.ku.dk/event/1321/contributions/11573/) (Copenhagen, August 2021)--[video](https://youtu.be/TiWgAFyys9c)
 - [Cortona Young 2021](https://www.ggi.infn.it/showevent.pl?id=404) (June 2021)--[video](https://youtu.be/nu-FY5C8RPA)
-- [GGI Workshop on Gravitational Scattering, Inspiral and Radiation](https://www.ggi.infn.it/showevent.pl?id=363) (Florence, May 2021) 
+- [Gravitational Scattering, Inspiral and Radiation](https://www.ggi.infn.it/showevent.pl?id=363) (GGI, Florence, May 2021) 
 - [QCD Meets Gravity](https://indico.desy.de/event/27454/contributions/93677/) (Northwestern University, December 2020) 
 - [EFT Methods: from Bound States to Binary Systems](https://indico.dfa.unipd.it/event/11/contributions/30/) (Padova, October 2020)
 - [Great Lessons from Exact Techniques and Beyond](https://agenda.infn.it/event/20305/contributions/101531/) (Padova, September 2020) 
@@ -43,7 +43,7 @@ permalink: /talks/
 - [New Frontiers in Theoretical Physics XXXVI](https://agenda.infn.it/event/14362/contributions/24380/) (Cortona, May 2018) 
 - [55th International School of Subnuclear Physics](http://www.emfcsc.infn.it/issp2017/) (Erice 2017) 
 - [Workshop on Higher-Spin Gauge Theories](https://web.umons.ac.be/pucg/en/event/4th-mons-hs-workshop/) (Mons, April 2017) 
-- [New Frontiers in Theoretical Physics XXXV](https://agenda.infn.it/event/10115/timetable/?view=standard#39-symmetry-breaking-by-topolo) (Florence, May 2016)
+- [New Frontiers in Theoretical Physics XXXV](https://agenda.infn.it/event/10115/timetable/?view=standard#39-symmetry-breaking-by-topolo) (GGI, Florence, May 2016)
 
 ## Seminars:
 
