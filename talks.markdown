@@ -35,7 +35,7 @@ permalink: /talks/
 - [Astroparticle Symposium](https://indico.ijclab.in2p3.fr/event/7119/contributions/23895/) (Institut Pascal, Paris-Saclay University, November 2021) 
 - [Amplitudes 2021](https://indico.nbi.ku.dk/event/1321/contributions/11573/) (Copenhagen, August 2021)--[video](https://youtu.be/TiWgAFyys9c)
 - [Cortona Young 2021](https://www.ggi.infn.it/showevent.pl?id=404) (June 2021)--[video](https://youtu.be/nu-FY5C8RPA)
-- [GGI Workshop “Gravitational Scattering, Inspiral and Radiation](https://www.ggi.infn.it/showevent.pl?id=363) (Florence, May 2021) 
+- [GGI Workshop on Gravitational Scattering, Inspiral and Radiation](https://www.ggi.infn.it/showevent.pl?id=363) (Florence, May 2021) 
 - [QCD Meets Gravity](https://indico.desy.de/event/27454/contributions/93677/) (Northwestern University, December 2020) 
 - [EFT Methods: from Bound States to Binary Systems](https://indico.dfa.unipd.it/event/11/contributions/30/) (Padova, October 2020)
 - [Great Lessons from Exact Techniques and Beyond](https://agenda.infn.it/event/20305/contributions/101531/) (Padova, September 2020) 
