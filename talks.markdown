@@ -8,6 +8,7 @@ permalink: /talks/
 ## Upcoming:
 
 - Lectures at [GRAMPA 2025 at Institut Henri Poincaré](https://indico.global/event/14299/overview) (Paris, July 2025)
+- Talk ad the workshop [Theoretical Tools for Gravitational Wave Physics](https://indico.phys.ethz.ch/event/259/) (ETH, Zurich, November 2025) 
 
 ## Conference talks:
 
