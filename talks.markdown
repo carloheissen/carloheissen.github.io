@@ -7,7 +7,6 @@ permalink: /talks/
 
 ## Upcoming:
 
-- Lectures at [GRAMPA 2025 at Institut Henri Poincaré](https://indico.global/event/14299/overview) (Paris, July 2025)
 - Talk ad the workshop [Theoretical Tools for Gravitational Wave Physics](https://indico.phys.ethz.ch/event/259/) (ETH, Zurich, November 2025) 
 
 ## Conference talks:
@@ -85,6 +84,8 @@ permalink: /talks/
 - Université Libre de Bruxelles (October 2018)
 
 ## Lecture series:
+
+- [GRAMPA 2025 at Institut Henri Poincaré](https://indico.global/event/14299/overview) (Paris, July 2025)
 - School on [Asymptotic Symmetries and Flat Holography](https://www.ggi.infn.it/showevent.pl?id=511) (GGI, Florence, May 2025)
 - [Cours de l'IPhT](https://courses.ipht.fr/?q=en/node/323) on "Gravitational waves, scattering amplitudes and BMS" (IPhT, Saclay, March-April 2025) <br>
 <figure>
