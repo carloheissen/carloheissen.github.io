@@ -9,6 +9,7 @@ permalink: /publications/
 Complete list of publications and bibliometric information available on [Inspire](https://inspirehep.net/authors/1680255)
 
 ### Articles and preprints:
+- Finite actions and asymptotic charges at null infinity for any spin [arXiv:2507.19310](https://arxiv.org/abs/2507.19310)
 - Nonlinear gravitational memory in the post-Minkowskian expansion [arXiv:2506.20733](https://arxiv.org/abs/2506.20733)
 - Radiation-reaction and angular momentum loss at O(G<sup>4</sup>) [arXiv:2501.02904](https://arxiv.org/abs/2501.02904)
 - Logarithmic soft theorems and soft spectra [arXiv:2407.04128](https://arxiv.org/abs/2407.04128)
