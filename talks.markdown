@@ -11,6 +11,7 @@ permalink: /talks/
 
 ## Conference talks:
 
+- [AdS/CFT Meets Carroll and Celestial Holography](https://icms.ac.uk/activities/workshop/ads-cft-meets-carrollian-celestial-holography/) (ICMS, Edinburgh, September 2025)
 - [From Asymptotic Symmetries to Flat Holography](https://www.ggi.infn.it/showevent.pl?id=512) (GGI, Florence, June 2025)
 - [French Strings Meeting 2025](https://indico.in2p3.fr/event/34664/overview) (Tours, June 2025)
 - [Waveforms and Tests of General Relativity](https://indico.ijclab.in2p3.fr/event/11680/overview) (Meudon, June 2025) 
