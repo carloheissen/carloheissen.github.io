@@ -7,7 +7,7 @@ permalink: /talks/
 
 ## Upcoming:
 
-- Talk ad the workshop [Theoretical Tools for Gravitational Wave Physics](https://indico.phys.ethz.ch/event/259/) (ETH, Zurich, November 2025) 
+- Talk at the workshop [Theoretical Tools for Gravitational Wave Physics](https://indico.phys.ethz.ch/event/259/) (ETH, Zurich, November 2025) 
 
 ## Conference talks:
 
