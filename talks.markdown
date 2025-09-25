@@ -7,6 +7,7 @@ permalink: /talks/
 
 ## Upcoming:
 
+- Talk for the [Simons online seminar series on Celestial Holography](https://simonscelestialholographycollaboration.org/seminars/) (30 September 2025)
 - Talk at the workshop [Theoretical Tools for Gravitational Wave Physics](https://indico.phys.ethz.ch/event/259/) (ETH, Zurich, November 2025)
 - Talk at the workshop [Observables in gauge theory and gravity](https://indico.in2p3.fr/event/36962/overview) (IPhT, December 2025)
 
