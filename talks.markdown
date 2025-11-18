@@ -9,8 +9,9 @@ permalink: /talks/
 
 - Talk at NBI, Copenhagen (27 November 2025)
 - Talk at the workshop [Observables in gauge theory and gravity](https://indico.in2p3.fr/event/36962/overview) (IPhT, December 2025)
-- Talk for the online seminar series ["The Search for New Physics in Accelerators and the Cosmos"](https://indico.buap.mx/event/124/) (BUAP, Mexico, February 2026)
-- Talk at the [Seed Seminars](https://seedseminar.apps.math.cnrs.fr/) (Paris-Saclay, February 2026)
+- Talk at the [Seed Seminars](https://seedseminar.apps.math.cnrs.fr/)(Paris-Saclay, February 2026)
+- Talk for the online seminar series ["The Search for New Physics in Accelerators and the Cosmos"](https://indico.buap.mx/event/124/)
+(BUAP, Mexico, February 2026)
 
 ## Conference organization:
 
