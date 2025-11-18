@@ -1,20 +1,24 @@
 ---
 layout: page
 #layout: default
-title: Talks & Lectures
+title: Conferences and Lectures
 permalink: /talks/
 ---
 
 ## Upcoming:
 
-- Talk at the workshop [Theoretical Tools for Gravitational Wave Physics](https://indico.phys.ethz.ch/event/259/) (ETH, Zurich, November 2025)
 - Talk at NBI, Copenhagen (27 November 2025)
 - Talk at the workshop [Observables in gauge theory and gravity](https://indico.in2p3.fr/event/36962/overview) (IPhT, December 2025)
 - Talk for the online seminar series ["The Search for New Physics in Accelerators and the Cosmos"](https://indico.buap.mx/event/124/) (BUAP, Mexico, February 2026)
 
+## Conference organization:
+
+- [XXI Avogadro Meeting](https://agenda.infn.it/event/47385/overview) on Strings, Supergravity and Gauge Theories (Catania, December 2025)
+- SharPRedGW--Sharpening Predictions for the Gravitational-Wave Era, [Institut Pascal workshop](https://www.institut-pascal.universite-paris-saclay.fr/) (Paris-Saclay, 2027)
 
 ## Conference talks:
 
+- Workshop [Theoretical Tools for Gravitational Wave Physics](https://indico.phys.ethz.ch/event/259/) (ETH, Zurich, November 2025)
 - [AdS/CFT Meets Carroll and Celestial Holography](https://icms.ac.uk/activities/workshop/ads-cft-meets-carrollian-celestial-holography/) (ICMS, Edinburgh, September 2025)
 - [From Asymptotic Symmetries to Flat Holography](https://www.ggi.infn.it/showevent.pl?id=512) (GGI, Florence, June 2025)
 - [French Strings Meeting 2025](https://indico.in2p3.fr/event/34664/overview) (Tours, June 2025)
