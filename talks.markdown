@@ -9,7 +9,7 @@ permalink: /talks/
 
 - Talk at University of Rome Tor Vergata (3 December 2025)
 - Talk at the workshop [Observables in gauge theory and gravity](https://indico.in2p3.fr/event/36962/overview) (IPhT, December 2025)
-- Talk at the [Seed Seminars](https://seedseminar.apps.math.cnrs.fr/)(Paris-Saclay, February 2026)
+- Talk at the [Seed Seminars](https://seedseminar.apps.math.cnrs.fr/) (Paris-Saclay, February 2026)
 - Talk for the online seminar series ["The Search for New Physics in Accelerators and the Cosmos"](https://indico.buap.mx/event/124/)
 (BUAP, Mexico, February 2026)
 
@@ -88,7 +88,7 @@ permalink: /talks/
 - Albert Einstein Institute, Potsdam (online, February 2021)
 - IPM, Tehran (online, February 2021)
 - Humboldt University, Berlin (online, January 2021)
-- [Joint Belgian hep-th Seminars](https://web.umons.ac.be/pucg/en/research-activities/joint-seminars/) (Mons, November 2020)
+- [Joint Belgian hep-th Seminars](https://web.umons.ac.be/pucg/en/research-activities/joint-seminars/), Mons (online, November 2020)
 - ETH, Zurich (online, April 2020)
 - University of Helsinki (February 2020)
 - École Polytechique, Centre de Physique Théorique (Paris Palaiseau, May 2019)
