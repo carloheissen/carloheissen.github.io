@@ -7,7 +7,7 @@ permalink: /talks/
 
 ## Upcoming:
 
-- Talk at NBI, Copenhagen (27 November 2025)
+- Talk at University of Rome Tor Vergata (3 December 2025)
 - Talk at the workshop [Observables in gauge theory and gravity](https://indico.in2p3.fr/event/36962/overview) (IPhT, December 2025)
 - Talk at the [Seed Seminars](https://seedseminar.apps.math.cnrs.fr/)(Paris-Saclay, February 2026)
 - Talk for the online seminar series ["The Search for New Physics in Accelerators and the Cosmos"](https://indico.buap.mx/event/124/)
@@ -58,6 +58,7 @@ permalink: /talks/
 
 ## Seminars:
 
+- NBI, Copenhagen (November 2025)
 - [Simons online seminar series on Celestial Holography](https://simonscelestialholographycollaboration.org/seminars/) (September 2025)
 - University of Bologna (December 2024)
 - University of Crete (December 2024)
