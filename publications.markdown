@@ -9,6 +9,7 @@ permalink: /publications/
 Complete list of publications and bibliometric information available on [Inspire](https://inspirehep.net/authors/1680255)
 
 ### Articles and preprints:
+- "Waveforms" at the horizon [arXiv:2602.05766](https://arxiv.org/abs/2602.05766)
 - Reconstructing the gravitational waveform from its probe limit [arXiv:2511.13835](https://arxiv.org/abs/2511.13835)
 - Finite actions and asymptotic charges at null infinity for any spin [arXiv:2507.19310](https://arxiv.org/abs/2507.19310)
 - Nonlinear gravitational memory in the post-Minkowskian expansion [arXiv:2506.20733](https://arxiv.org/abs/2506.20733)
