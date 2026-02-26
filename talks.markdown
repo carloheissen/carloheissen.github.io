@@ -1,22 +1,19 @@
 ---
 layout: page
 #layout: default
-title: Conferences and Lectures
+title: Conferences, Talks, and Lectures
 permalink: /talks/
 ---
 
 ## Upcoming:
 
-- Talk at the [Seed Seminars](https://seedseminar.apps.math.cnrs.fr/) (Paris-Saclay, February 2026)
-- Talk for the online seminar series ["The Search for New Physics in Accelerators and the Cosmos"](https://indico.buap.mx/event/124/)
-(BUAP, Mexico, February 2026)
+- Talk at [Black Hole Perturbation Theory and Holography](https://indico.cern.ch/event/1597045/overview) (IGAP, Trieste, March 2026)
 
 ## Conference organization:
 
 - SharPRedGW--Sharpening Predictions for the Gravitational-Wave Era, [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/) workshop (Paris-Saclay, 2027)
 
 - [XXI Avogadro Meeting](https://agenda.infn.it/event/47385/overview) on Strings, Supergravity and Gauge Theories (Catania, December 2025)
-
 
 ## Conference talks:
 
@@ -59,6 +56,9 @@ permalink: /talks/
 
 ## Seminars:
 
+- CIFFU-BUAP ["The Search for New Physics in Accelerators and the Cosmos"](https://indico.buap.mx/event/124/), Puebla, Mexico, (Online, February 2026)
+(BUAP, Mexico, February 2026)
+- [Seed Seminar](https://seedseminar.apps.math.cnrs.fr/talks/talk72/) (IHES, Bures-sur-Yvette, February 2026)
 - University of Tor Vergata (Rome, December 2025)
 - NBI (Copenhagen, November 2025)
 - [Simons online seminar series on Celestial Holography](https://simonscelestialholographycollaboration.org/seminars/) (September 2025)
