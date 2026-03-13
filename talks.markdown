@@ -55,8 +55,7 @@ permalink: /talks/
 
 ## Seminars:
 
-- CIFFU-BUAP ["The Search for New Physics in Accelerators and the Cosmos"](https://indico.buap.mx/event/124/), Puebla, Mexico, (Online, February 2026)
-(BUAP, Mexico, February 2026)
+- BUAP ["The Search for New Physics in Accelerators and the Cosmos"](https://indico.buap.mx/event/124/), Puebla, Mexico, (Online, February 2026)
 - [Seed Seminar](https://seedseminar.apps.math.cnrs.fr/talks/talk72/) (IHES, Bures-sur-Yvette, February 2026)
 - University of Tor Vergata (Rome, December 2025)
 - NBI (Copenhagen, November 2025)
