@@ -5,9 +5,7 @@ title: Conferences, Talks, and Lectures
 permalink: /talks/
 ---
 
-## Upcoming:
-
-- Talk at [Black Hole Perturbation Theory and Holography](https://indico.cern.ch/event/1597045/overview) (IGAP, Trieste, March 2026)
+[//]: # (## Upcoming:)
 
 ## Conference organization:
 
@@ -17,6 +15,7 @@ permalink: /talks/
 
 ## Conference talks:
 
+- [Black Hole Perturbation Theory and Holography](https://indico.cern.ch/event/1597045/overview) IGAP (Trieste, March 2026)-[video](https://youtu.be/UzKnzueiEdk?si=MxAQ2rpkhIqIfXgM)
 - [Observables in gauge theory and gravity](https://indico.in2p3.fr/event/36962/overview) (IPhT, December 2025)
 - [Theoretical Tools for Gravitational Wave Physics](https://indico.phys.ethz.ch/event/259/) (ETH, Zurich, November 2025)
 - [AdS/CFT Meets Carroll and Celestial Holography](https://icms.ac.uk/activities/workshop/ads-cft-meets-carrollian-celestial-holography/) (ICMS, Edinburgh, September 2025)
