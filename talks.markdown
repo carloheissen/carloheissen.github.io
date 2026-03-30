@@ -9,6 +9,7 @@ permalink: /talks/
 
 ## Upcoming:
 
+- Talk at the online workshop [YOUNGST@ARS - Loops & Geometry](https://indico.mitp.uni-mainz.de/event/467/) (22 April 2026)
 - Talk at the University of Edinburgh (20 May 2026)
 - Lectures at the [Campagna School of Basic Science](https://indico.dfa.unipd.it/e/csbs2026) (30 August-5 September 2026)
 
