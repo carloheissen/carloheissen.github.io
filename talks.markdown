@@ -9,7 +9,6 @@ permalink: /talks/
 
 ## Upcoming:
 
-- Talk at the online workshop [YOUNGST@ARS - Loops & Geometry](https://indico.mitp.uni-mainz.de/event/467/) (22 April 2026)
 - Talk at the University of Edinburgh (20 May 2026)
 - Lectures at the [Campagna School of Basic Science](https://indico.dfa.unipd.it/e/csbs2026) (30 August-5 September 2026)
 
@@ -22,6 +21,7 @@ Sharpening Predictions for the Gravitational-Wave Era, [Institut Pascal](https:/
 
 ## Conference talks:
 
+ [YOUNGST@ARS - Loops & Geometry](https://indico.mitp.uni-mainz.de/event/467/) (22 April 2026)
 - [Black Hole Perturbation Theory and Holography](https://indico.cern.ch/event/1597045/overview) (IGAP, Trieste, March 2026)-[video](https://youtu.be/UzKnzueiEdk?si=MxAQ2rpkhIqIfXgM)
 - [Observables in gauge theory and gravity](https://indico.in2p3.fr/event/36962/overview) (IPhT, December 2025)
 - [Theoretical Tools for Gravitational Wave Physics](https://indico.phys.ethz.ch/event/259/) (ETH, Zurich, November 2025)
