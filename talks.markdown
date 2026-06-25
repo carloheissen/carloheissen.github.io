@@ -9,7 +9,6 @@ permalink: /talks/
 
 ## Upcoming:
 
-- Talk at the University of Edinburgh (20 May 2026)
 - Lectures at the [Campagna School of Basic Science](https://indico.dfa.unipd.it/e/csbs2026) (30 August-5 September 2026)
 
 ## Conference organization:
@@ -62,6 +61,7 @@ Sharpening Predictions for the Gravitational-Wave Era, [Institut Pascal](https:/
 
 ## Seminars:
 
+- University of Edinburgh (May 2026)
 - BUAP ["The Search for New Physics in Accelerators and the Cosmos"](https://indico.buap.mx/event/124/), Puebla, Mexico, (Online, February 2026)
 - [Seed Seminar](https://seedseminar.apps.math.cnrs.fr/talks/talk72/) (IHES, Bures-sur-Yvette, February 2026)-[video](https://youtu.be/iEwhU28IaA8?si=YFZpZx7UxMfEytJW)
 - University of Tor Vergata (Rome, December 2025)
