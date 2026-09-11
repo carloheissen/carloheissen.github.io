@@ -7,16 +7,14 @@ permalink: /talks/
 
 [//]: # (## Upcoming:)
 
-## Upcoming:
-
-- Lectures at the [Campagna School of Basic Science](https://indico.dfa.unipd.it/e/csbs2026) (30 August-5 September 2026)
-
 ## Conference organization:
 
 - SharPRedGW <br>
-Sharpening Predictions for the Gravitational-Wave Era, [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/) workshop (Paris-Saclay, 2027)
+Sharpening Predictions for the Gravitational-Wave Era, [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/) workshop (Paris-Saclay, 12-30 April 2027)
 
-- [XXI Avogadro Meeting](https://agenda.infn.it/event/47385/overview) on Strings, Supergravity and Gauge Theories (Catania, December 2025)
+- XXII Avogadro Meeting on Strings, Supergravity and Gauge Theories (Genoa, 16-18 December 2026)
+
+- [XXI Avogadro Meeting](https://agenda.infn.it/event/47385/overview) on Strings, Supergravity and Gauge Theories (Catania, 17-19 December 2025)
 
 ## Conference talks:
 
@@ -105,6 +103,7 @@ Sharpening Predictions for the Gravitational-Wave Era, [Institut Pascal](https:/
 
 ## Lecture series:
 
+- [Campagna School of Basic Science](https://indico.dfa.unipd.it/e/csbs2026) (August/September 2026)
 - [GRAMPA 2025 at Institut Henri Poincaré](https://indico.global/event/14299/overview) (Paris, July 2025)
 - School on [Asymptotic Symmetries and Flat Holography](https://www.ggi.infn.it/showevent.pl?id=511) (GGI, Florence, May 2025)
 - [Cours de l'IPhT](https://courses.ipht.fr/?q=en/node/323) on "Gravitational waves, scattering amplitudes and BMS" (IPhT, Saclay, March-April 2025) <br>
