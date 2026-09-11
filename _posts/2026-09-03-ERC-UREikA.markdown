@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ERC Starting Grant: UREikA"
-date: 2026-09-11
+date: 2026-09-03
 ---
 
 I am extremely happy to share that I have been awarded a Starting Grant by the European Research Council for my project **UREikA — UltraRelativistic Eikonal Amplitudes**.
