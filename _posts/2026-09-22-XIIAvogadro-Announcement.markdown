@@ -14,21 +14,21 @@ The Avogadro Meeting is named after the University of Piemonte Orientale that ho
 
 This year's edition will take place in Genoa, from Wednesday 16/12/2026 to Friday 18/12/2026, with a social dinner planned for Friday evening. The registration **deadline** is fixed for **15/11/2026**.
 
-Topics include:
+Topics:
 
-Cobordism and its applications to physics and quantum gravity
+-*Cobordism and its applications to physics and quantum gravity*
 Roberta Angius (U. Hamburg), Salvatore Raucci (Madrid IFT)
 
-Matrix Models and Gauge/String Duality
+-*Matrix Models and Gauge/String Duality*
 Jackson Fliss (ULB), Edward Mazenc (ETH)
 
-New perspectives on anomalies in QFT
+-*New perspectives on anomalies in QFT*
 Andrea Antinucci (Oxford U.), Lea Bottini (IHES)
 
-QFT in AdS
+-*QFT in AdS*
 Fabiana De Cesare (U. Turin), Manuel Loparco (U. Turin)
 
-String Amplitudes
+-*String Amplitudes*
 Maurizio Firrotta (Fudan U.), Maria Nocchi (Stony Brook U.)
 
 
