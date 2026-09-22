@@ -9,10 +9,10 @@ permalink: /talks/
 
 ## Conference organization:
 
-- SharPRedGW <br>
+- [SharPRedGW](https://indico.ijclab.in2p3.fr/event/14294/) <br>
 Sharpening Predictions for the Gravitational-Wave Era, [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/) workshop (Paris-Saclay, 12-30 April 2027)
 
-- XXII Avogadro Meeting on Strings, Supergravity and Gauge Theories (Genoa, 16-18 December 2026)
+- [XXII Avogadro Meeting](https://agenda.infn.it/event/53745/) on Strings, Supergravity and Gauge Theories (Genoa, 16-18 December 2026)
 
 - [XXI Avogadro Meeting](https://agenda.infn.it/event/47385/overview) on Strings, Supergravity and Gauge Theories (Catania, 17-19 December 2025)
 
