@@ -17,23 +17,23 @@ This year's edition will take place in Genoa, from Wednesday 16/12/2026 to Frida
 Topics:
 
 -*Cobordism and its applications to physics and quantum gravity*
-
+<br>
 Roberta Angius (U. Hamburg), Salvatore Raucci (Madrid IFT)
 
 -*Matrix Models and Gauge/String Duality*
-
+<br>
 Jackson Fliss (ULB), Edward Mazenc (ETH)
 
 -*New perspectives on anomalies in QFT*
-
+<br>
 Andrea Antinucci (Oxford U.), Lea Bottini (IHES)
 
 -*QFT in AdS*
-
+<br>
 Fabiana De Cesare (U. Turin), Manuel Loparco (U. Turin)
 
 -*String Amplitudes*
-
+<br>
 Maurizio Firrotta (Fudan U.), Maria Nocchi (Stony Brook U.)
 
 
