@@ -12,7 +12,7 @@ It takes place every year in December for three days, with a series of lectures 
 
 The Avogadro Meeting is named after the University of Piemonte Orientale that hosted its first three editions. It is now recognized as an important opportunity for exchange for both the international and Italian theoretical physics communities.
 
-This year's edition will take place in Genoa, from Wednesday 16/12/2026 to Friday 18/12/2026, with a social dinner planned for Friday evening. The registration **deadline** is fixed for **15/11/2026**.
+> This year's edition will take place in Genoa, from Wednesday 16/12/2026 to Friday 18/12/2026, with a social dinner planned for Friday evening. The registration **deadline** is fixed for **15/11/2026**.
 
 Topics:
 
