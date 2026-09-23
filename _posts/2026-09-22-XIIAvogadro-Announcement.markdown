@@ -14,7 +14,7 @@ The Avogadro Meeting is named after the University of Piemonte Orientale that ho
 
 This year's edition will take place in Genoa, from Wednesday 16/12/2026 to Friday 18/12/2026, with a social dinner planned for Friday evening. The registration **deadline** is fixed for **15/11/2026**.
 
-Topics:
+Topics and speakers:
 
 -*Cobordism and its applications to physics and quantum gravity*
 <br>
