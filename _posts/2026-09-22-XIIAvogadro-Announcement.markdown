@@ -14,7 +14,7 @@ The Avogadro Meeting is named after the University of Piemonte Orientale that ho
 
 This year's edition will take place in Genoa, from Wednesday 16/12/2026 to Friday 18/12/2026, with a social dinner planned for Friday evening. The registration **deadline** is fixed for **15/11/2026**.
 
-Topics and speakers:
+Topics and speakers of the Avogadro Meeting 2026:
 
 -*Cobordism and its applications to physics and quantum gravity*
 <br>
@@ -35,6 +35,8 @@ Fabiana De Cesare (U. Turin), Manuel Loparco (U. Turin)
 -*String Amplitudes*
 <br>
 Maurizio Firrotta (Fudan U.), Maria Nocchi (Stony Brook U.)
+
+[Here](https://sites.google.com/site/avogadromeetings/about?authuser=0) you can find more information on the Avogadro Meeting and on its previous editions.
 
 
 
