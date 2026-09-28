@@ -18,3 +18,58 @@ $on-laptop:        910px;
 
 @import "minima";
 
+// ---- Color palette: blue + orange ----
+$blue:        #1d4e89;
+$blue-dark:   #143a66;
+$orange:      #e8833a;
+$orange-soft: #f79256;
+
+// Header
+.site-header {
+  background-color: $blue;
+  border-top: 5px solid $orange;
+  border-bottom: none;
+}
+.site-title,
+.site-title:visited {
+  color: #fff;
+}
+.site-title:hover {
+  color: $orange-soft;
+  text-decoration: none;
+}
+.site-nav .page-link {
+  color: #fff;
+  &:hover {
+    color: $orange-soft;
+    text-decoration: none;
+  }
+}
+
+// On phones minima shows the menu as a white dropdown, so keep dark text there
+@include media-query($on-palm) {
+  .site-nav .page-link {
+    color: #111;
+    &:hover { color: $blue; }
+  }
+}
+
+// Footer
+.site-footer {
+  background-color: $blue-dark;
+  border-top: 5px solid $orange;
+  color: #dbe7f5;
+
+  a,
+  a:visited {
+    color: $orange-soft;
+  }
+  a:hover {
+    color: #fff;
+  }
+
+  .footer-col-wrapper,
+  .footer-heading {
+    color: #fff;
+  }
+}
