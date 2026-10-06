@@ -8,6 +8,11 @@ permalink: /talks/
 
 [//]: # (## Upcoming:)
 
+## Upcoming:
+
+- Seminar at [AEI Potsdam](https://www.aei.mpg.de/astro-cosmo-rel) (28 October 2026)
+- [Forum de la théorie au CEA](https://indico.in2p3.fr/event/39864/) (Saclay, 9-10 December 2026)
+
 ## Conference organization:
 
 - [SharPRedGW](https://indico.ijclab.in2p3.fr/event/14294/) <br>
